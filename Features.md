@@ -17,12 +17,6 @@ An end-to-end Vending Machine app built with:
 
 ---
 
-## 📸 Demo Video
-
-▶️ [Click to Watch](./video-demo/vending-machine-demo.mp4)
-
----
-
 ## 📦 Features
 
 - Product selection & price view
