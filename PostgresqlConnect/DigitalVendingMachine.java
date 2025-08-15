@@ -1,4 +1,3 @@
-package JDBC.Project2;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
